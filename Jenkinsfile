@@ -11,7 +11,7 @@ pipeline
 				#!/bin/bash
 				
 				git clone https://github.com/badrinathk04/c_project.git
-				cd /home/ec2-user/.jenkins/workspace/jpipeline
+				cd /home/ec2-user/.jenkins/workspace/jpipeline/c_project
 				make '''
 			}
 		}
